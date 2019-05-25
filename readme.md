@@ -1,4 +1,4 @@
-## Media Gamma interview challenge
+## Interview Challenge
 
 ### Introduction
 
